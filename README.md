@@ -17,6 +17,8 @@ labels: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/imagelabels.mat. \
 
 
 ### Test Results
-After training and testing Accuracy of <!--51% --> was achieved.
+After training and testing Accuracy of :
+->51% was achieved with my custom model.
+->73% was achieved using ResNet model.
 
 ## What its look like
