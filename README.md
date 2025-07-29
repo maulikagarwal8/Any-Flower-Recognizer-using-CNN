@@ -19,7 +19,7 @@ It uses Flowers-102 datasets images to train itself
 
 ### Test Results
 After training and testing Accuracy of :\
-->51% was achieved with my custom model.\
-->73% was achieved using ResNet model.
+->55% was achieved with my custom model.\
+->78% was achieved using ResNet model.
 
 ## What its look like
